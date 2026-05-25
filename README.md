@@ -1,4 +1,4 @@
-# David Rivera — Cybersecurity Portfolio
+# David Rivera | Cybersecurity Portfolio
 
 📍 Stafford, VA | 🔗 [LinkedIn](https://linkedin.com/in/david-rivera-8120081a7) | ✉️ DWRivera@Protonmail.com
 

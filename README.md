@@ -67,33 +67,7 @@ showed me exactly what to work on next.
 
 ---
 
-## Projects
 
-### Secure DevSecOps Pipeline *(In Progress)*
-A GitHub Actions pipeline with six automated security stages: secrets scanning (GitLeaks), 
-dependency scanning, SAST (Semgrep), container scanning (Trivy), DAST (OWASP ZAP), and IaC 
-scanning (Checkov). Building this as part of my DevSecOps learning path.
-
-### IOC Enricher
-Python tool that takes a list of IPs, domains, and hashes and enriches them against VirusTotal 
-and AbuseIPDB APIs. Built for SOC triage workflows.  
-🔗 [View repo](https://github.com/CheemsFan/ioc-enricher)
-
-### IR Toolkit
-Two Python scripts for incident response: a Windows event log timeline builder and a file 
-hasher with optional VirusTotal lookup. Designed for rapid evidence collection and triage.  
-🔗 [View repo](https://github.com/CheemsFan/ir-toolkit)
-
-### Detection Rules Library
-A collection of Sigma detection rules mapped to MITRE ATT&CK, covering persistence, defense 
-evasion, and credential access techniques. Written to be SIEM-agnostic and convertible to 
-Splunk SPL or Sentinel KQL via pySigma.  
-🔗 [View repo](https://github.com/CheemsFan/detection-rules)
-
-### RSA Cryptography Tools
-Educational Python implementation of RSA encryption and decryption at the block level, 
-demonstrating modular exponentiation and private key derivation from prime factors.  
-🔗 [View repo](https://github.com/CheemsFan/rsa-cryptography-tools)
 
 ---
 
